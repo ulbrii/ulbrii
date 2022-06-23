@@ -1,4 +1,4 @@
-# Hi there, I'm Luke - aka [ulbrii] 👋 
+# Hi there, I'm Luke - aka ulbrii 👋 
 
 
 ## I'm a Husband, Soon-to-be-Father, Musician, & Developer!
