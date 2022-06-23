@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ukbrii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ulbrii&show_icons=true&theme=gruvbox_light
+![ulbrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulbrii&show_icons=true&theme=ayu-mirage)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulbrii&layout=compact)](https://github.com/ulbrii/github-readme-stats)
 
