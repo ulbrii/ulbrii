@@ -3,7 +3,7 @@
 
 ## I'm a Husband, Soon-to-be-Father, Musician, & Developer!
 
-- 🔭 Check out my most recent React [project](https://ulbrii.github.io/ArsenalFanMeetups/)!
+- 🔭 Check out my most recent React [project](https://ulbrii.github.io/EsbernSnare/)!
 - 🌱 I’m currently learning all I can about coding & theology
 - 🥅 2022 Goals: Get hired as a web-developer
 - ⚡ Fun fact: I write songs for my band [Esbern Snare](https://www.facebook.com/esbernsnaremusic/) & I'm currently working on a novel 📖
